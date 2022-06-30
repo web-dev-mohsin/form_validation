@@ -1,0 +1,7 @@
+Hello bangladesh
+<<<<<<< HEAD
+New text added and solved error
+=======
+Bangladesh is abeautiful country in the world
+Srilanka
+>>>>>>> 5d08c8227dc13933c6da7ad6c2afdadc3d55ad9c
